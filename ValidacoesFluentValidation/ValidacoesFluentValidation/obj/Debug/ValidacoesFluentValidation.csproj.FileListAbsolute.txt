@@ -1,0 +1,11 @@
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\bin\Debug\ValidacoesFluentValidation.exe.config
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\bin\Debug\ValidacoesFluentValidation.exe
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\bin\Debug\ValidacoesFluentValidation.pdb
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\bin\Debug\FluentValidation.dll
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\bin\Debug\FluentValidation.xml
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\obj\Debug\ValidacoesFluentValidation.csprojAssemblyReference.cache
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\obj\Debug\ValidacoesFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\obj\Debug\ValidacoesFluentValidation.csproj.CopyComplete
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\obj\Debug\ValidacoesFluentValidation.exe
+C:\Users\joaof\source\repos\ValidacoesFluentValidation\ValidacoesFluentValidation\obj\Debug\ValidacoesFluentValidation.pdb
